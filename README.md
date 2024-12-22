@@ -34,7 +34,7 @@
 
 4. **Запуск сервера:**:
     ```
-    uvicorn main:app --reload
+    uvicorn server:app --reload
     ```
 
 ## Использование API
